@@ -1,0 +1,6 @@
+.imgCarrito{
+    width: 5rem;
+    height: 5rem;
+   background: linear-gradient(rgb(94, 94, 213), rgba(49, 49, 138, 0.158));
+   cursor: pointer;
+}

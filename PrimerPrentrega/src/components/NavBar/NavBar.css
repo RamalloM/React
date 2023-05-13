@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    border-bottom: 1px solid black;
+    background: linear-gradient(rgb(94, 94, 213), rgba(49, 49, 138, 0.158));
+
+}
+
+li {
+    display: inline-block;
+    flex-direction: row;
+    margin: 1rem;
+    cursor: pointer;
+}
+
+h1{cursor: pointer;}
